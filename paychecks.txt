@@ -1,0 +1,44 @@
+Paycheck for Rainier Kahayon - Date: 2024-10-20
+Hours Worked: 12, Overtime: 0, Gross Salary: PHP 7188.00, Net Salary: PHP 6512.96
+Deductions: SSS PHP 323.46, PhilHealth PHP 251.58, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Rainier Kahayon - Date: 2024-10-20
+Hours Worked: 12, Overtime: 0, Gross Salary: PHP 7188.00, Net Salary: PHP 6512.96
+Deductions: SSS PHP 323.46, PhilHealth PHP 251.58, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Rainier Kahayon - Date: 2024-10-20
+Hours Worked: 10, Overtime: 3, Gross Salary: PHP 8236.25, Net Salary: PHP 7477.35
+Deductions: SSS PHP 370.63124999999997, PhilHealth PHP 288.26875, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 11, Overtime: 0, Gross Salary: PHP 9889.00, Net Salary: PHP 8997.88
+Deductions: SSS PHP 445.005, PhilHealth PHP 346.115, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 8, Overtime: 0, Gross Salary: PHP 7192.00, Net Salary: PHP 6516.64
+Deductions: SSS PHP 323.64, PhilHealth PHP 251.72000000000003, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 9, Overtime: 0, Gross Salary: PHP 8091.00, Net Salary: PHP 7343.72
+Deductions: SSS PHP 364.09499999999997, PhilHealth PHP 283.185, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 8, Overtime: 0, Gross Salary: PHP 7192.00, Net Salary: PHP 6516.64
+Deductions: SSS PHP 323.64, PhilHealth PHP 251.72000000000003, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 12, Overtime: 0, Gross Salary: PHP 10788.00, Net Salary: PHP 9824.96
+Deductions: SSS PHP 485.46, PhilHealth PHP 377.58000000000004, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Rainier Kahayon - Date: 2024-10-20
+Hours Worked: 3, Overtime: 0, Gross Salary: PHP 1797.00, Net Salary: PHP 1617.30
+Deductions: SSS PHP 80.865, PhilHealth PHP 62.895, Pag-IBIG PHP 35.94, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 8, Overtime: 0, Gross Salary: PHP 7192.00, Net Salary: PHP 6516.64
+Deductions: SSS PHP 323.64, PhilHealth PHP 251.72000000000003, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================
+Paycheck for Jake Peralta - Date: 2024-10-20
+Hours Worked: 10, Overtime: 0, Gross Salary: PHP 8990.00, Net Salary: PHP 8170.80
+Deductions: SSS PHP 404.55, PhilHealth PHP 314.65000000000003, Pag-IBIG PHP 100.0, Tax PHP 0.0
+==============================================

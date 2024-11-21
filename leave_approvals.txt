@@ -1,0 +1,5 @@
+Leave Request Decision for Rainier Kahayon (ID: 121212.0) on 2024-10-20
+Reason: sick
+Start Date: 2024-10-20, End Date: 2024-10-24
+Decision: Approved
+==============================================
